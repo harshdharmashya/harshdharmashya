@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @harshdharmashya
+- 👋 Hi, I’m @harshdharmashya (https://portfolio-3e361.web.app/)
 - 👀 I’m interested in Website Development
-- 🌱 I’m currently learning Nextjs and DSA(Java)
+- 🌱 I’m currently learning next.js
 - 💞️ I’m looking to collaborate on React based projects
 - 📫 harshdharmashya9810@gmail.com
-- ⚡ Fun fact: Night coder, pursuing BCA.
-
-
