@@ -10,7 +10,7 @@
 - 💻 Frontend: **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, **Bootstrap**, **HTML5**, **CSS3**, **JavaScript**
 - 🌐 Backend: **Node.js**, **Express**, **Django**, **Django REST API**
 - 🗃️ Database: **MongoDB**, **Prisma ORM**
-- 🔧 Tools: **Git**, **GitHub**, **VS Code**, **Postman**, **Figma**, **Netlify**, **Vercel**, **Hostinger**
+- 🔧 Tools: **Git**, **GitHub**, **VS Code**, **Postman**, **Netlify**, **Vercel**, **Hostinger**
 
 ---
 
@@ -37,6 +37,7 @@
 ### 📫 Let's Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/harsh-dharmashya-859922287/)
 - 📬 Mail: harshdharmashya9810@gmail.com
+- 📄 Portfolio: https://portfolio-3e361.web.app/
 
 ---
 
