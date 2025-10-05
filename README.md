@@ -57,7 +57,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/harsh-dharmashya-859922287/)
 - 📬 harshdharmashya9810@gmail.com  
-- 🌐 [Portfolio](https://portfolio-3e361.web.app)
+- 🌐 [Portfolio]([https://portfolio-3e361.web.app](https://harsh-website-developer-portfolio.vercel.app/))
 
 ---
 
